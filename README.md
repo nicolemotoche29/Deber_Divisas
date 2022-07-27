@@ -23,3 +23,5 @@
 ![image](https://user-images.githubusercontent.com/85316345/181383798-9b16ccd6-5d17-41e6-9500-6ce117ae21e3.png)
 9. Realizamos los calculos para la conversion de las monedas.
 ![image](https://user-images.githubusercontent.com/85316345/181383843-f0525326-b973-4060-b8c4-e63681e60ce6.png)
+10. Corremos el progtramo, logrando con su funcionalidad.
+![image](https://user-images.githubusercontent.com/85316345/181384296-892d581b-6374-479d-9ac2-1045a77befbd.png)
